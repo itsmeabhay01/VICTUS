@@ -49,7 +49,7 @@ The "Vehicle Movement Analysis and Insight Generation in a College Campus using 
 
 ## Tools Used
 
--YOLOv8 (You Only Look Once):
+.YOLOv8 (You Only Look Once):
 
 Purpose: Object detection framework used to accurately identify and track vehicles in real-time from captured images.
 Features: High speed and accuracy, capable of detecting multiple objects in a single frame..
