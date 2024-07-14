@@ -68,6 +68,13 @@ Purpose: Cloud-based platform for developing, training, and testing AI models.
 Purpose: Develop and integrate detection and recognition algorithms.
 
 Libraries Used: Tensorflow, pandas
+OCR Tools:EasyOCR
+
+
+Purpose: Optical Character Recognition tools used to read and recognize license plate numbers from detected vehicles.
+
+Features: High accuracy in text recognition, support for various languages and fonts.
+
 
  ## **Synthesize and Implementation of the designs:**
    - **Functional simulation**: To ensure the correctness of our designs, we performed functional simulations using ModelSim Altera. The simulations involved running various test cases and verifying the expected outputs against the implemented algorithms. The functional simulations demonstrated that our designs accurately perform the division operations and produce the expected results.
