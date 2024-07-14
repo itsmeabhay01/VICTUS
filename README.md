@@ -51,10 +51,13 @@ The "Vehicle Movement Analysis and Insight Generation in a College Campus using 
 
 .YOLOv8 (You Only Look Once):
 
-Purpose: Object detection framework used to accurately identify and track vehicles in real-time from captured images.
+Purpose: Object detection framework used to accurately identify and track vehicles  from captured images.
 Features: High speed and accuracy, capable of detecting multiple objects in a single frame..
 
-- **LabsLand Online for Virtual Laboratory Setup**<br>To augment our practical learning experience, we leveraged the [LabsLand](https://labsland.com/en) online website for accessing virtual laboratories. This platform facilitated the implementation and testing of our designs in a simulated environment, allowing us to gain hands-on experience and further validate the performance of our algorithms.
+Development Environment: Google Colab
+
+Purpose: Cloud-based platform for developing, training, and testing AI models.
+Features: Access to powerful GPUs, collaborative coding, and ease of use.
  ## **Synthesize and Implementation of the designs:**
    - **Functional simulation**: To ensure the correctness of our designs, we performed functional simulations using ModelSim Altera. The simulations involved running various test cases and verifying the expected outputs against the implemented algorithms. The functional simulations demonstrated that our designs accurately perform the division operations and produce the expected results.
    <br>*You can find functional simulation files [Here](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Functional-Simulation/)*
