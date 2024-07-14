@@ -1,4 +1,4 @@
-# VEHICLE_MOVEMENT_ANALYSIS_AND_INSIGHT_GENERATION_IN_A_COLLEGE_CAMPUS_USING_EDGE_AI
+# VEHICLE_MOVEMENT_ANALYSIS_AND_INSIGHT_GENERATION_IN_A_COLLEGE_CAMPUS
 
 ## Team: VICTUS
 #### Team Members :
@@ -7,7 +7,7 @@
 3. [Aswathy Satheesh](https://github.com/aaswathi)
 
 #### Project Mentor :
- [Dr. Pradeep C](mailto:jyothish.cg@saintgits.org)
+ Dr. Pradeep C
  
  #### College :
  [Saintgits College of Engineering (Autonomous)](https://saintgits.org/saintgits-college-of-engineering/)
@@ -59,7 +59,7 @@ Features: High accuracy in text recognition, support for various languages and f
   
 <a id="conclusion"></a>
 
-## Steps to run Code
+## Instructions to run Code
 
 - Clone the repository
 ```
@@ -85,6 +85,31 @@ data
 VEHICLE_MOVEMENT_ANALYSIS_AND_INSIGHT_GENERATION_IN_COLLEGE_CAMPUS.ipynb
 ```
 - Run this above ipynb file in the required platform
+
+  ### RESULTS
+
+
+#### Vehicle Detection and License Plate Recognition
+
+
+![vehicle detection results](https://github.com/user-attachments/assets/4a11b68a-947a-4bda-84a0-ebde5e4999c9)
+
+
+### License plate recognition csv file
+
+
+![vehicle license plate csv](https://github.com/user-attachments/assets/64c3bf6b-9eff-4c54-82fe-a64c3c87217c)
+
+### Authorized vehicles csv file
+
+![authorized vehicle list csv](https://github.com/user-attachments/assets/a3c94b4a-5465-471e-b86f-80db2f354c29)
+
+### Vehicle entry csv file
+
+![vehicle entry csv](https://github.com/user-attachments/assets/1e0ba0cc-b025-4ba0-b87a-74810d88d749)
+
+
+
 
 ## Conclusion
 
