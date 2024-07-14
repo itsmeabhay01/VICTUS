@@ -77,7 +77,7 @@ Purpose: Optical Character Recognition tools used to read and recognize license 
 Features: High accuracy in text recognition, support for various languages and fonts.
 
 
- ## **Synthesize and Implementation of the designs:**
+ ## **Synthesize and Implementation of the designs:
    - **Functional simulation**: To ensure the correctness of our designs, we performed functional simulations using ModelSim Altera. The simulations involved running various test cases and verifying the expected outputs against the implemented algorithms. The functional simulations demonstrated that our designs accurately perform the division operations and produce the expected results.
    <br>*You can find functional simulation files [Here](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Functional-Simulation/)*
    - **RTL simulation**: To evaluate the performance and functionality of the implemented designs we conducted RTL Simulation. The simulations were performed using Intel® Quartus® Prime Lite, and they provided insights into the behavior and timing of the designs at the Register Transfer Level (RTL). Through RTL simulations, we verified that our designs met the required specifications and operated as intended.. <br>*You can find RTL simulation  files [Here](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/RTL-Simulation/)*
