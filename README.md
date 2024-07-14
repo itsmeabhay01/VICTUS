@@ -49,8 +49,10 @@ The "Vehicle Movement Analysis and Insight Generation in a College Campus using 
 
 ## Tools Used
 
-- **Intel® Quartus® Prime Lite Software and ModelSim Altera for Simulation**<br>
-For the simulation of the designed algorithms, we utilized the [Intel® Quartus® Prime Lite ](https://www.intel.com/content/www/us/en/software-kit/660907/intel-quartus-prime-lite-edition-design-software-version-20-1-1-for-windows.html)Software along with [ModelSim Altera](https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html). These tools provided us with the necessary features and functionalities to validate and verify the correctness of our designs.
+-YOLOv8 (You Only Look Once):
+
+Purpose: Object detection framework used to accurately identify and track vehicles in real-time from captured images.
+Features: High speed and accuracy, capable of detecting multiple objects in a single frame..
 
 - **LabsLand Online for Virtual Laboratory Setup**<br>To augment our practical learning experience, we leveraged the [LabsLand](https://labsland.com/en) online website for accessing virtual laboratories. This platform facilitated the implementation and testing of our designs in a simulated environment, allowing us to gain hands-on experience and further validate the performance of our algorithms.
  ## **Synthesize and Implementation of the designs:**
