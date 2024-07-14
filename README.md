@@ -77,10 +77,10 @@ pip install -r requirements.txt
 
 - Access the dataset from the data file.
 ```
-VEHICLE_MOVEMENT_ANALYSIS_AND_INSIGHT_GENERATION_IN_COLLEGE_CAMPUS.ipynb
+data
 
 ```
-- Downloading the DeepSORT Files From The Google Drive 
+- Download this .ipynb file 
 ```
 
 https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8?usp=sharing
