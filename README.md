@@ -68,6 +68,7 @@ Purpose: Cloud-based platform for developing, training, and testing AI models.
 Purpose: Develop and integrate detection and recognition algorithms.
 
 Libraries Used: Tensorflow, pandas
+
 OCR Tools:EasyOCR
 
 
