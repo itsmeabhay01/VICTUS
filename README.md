@@ -28,8 +28,7 @@ Machine Learning, Deep Learning
 6th
 
 ## Description
-A division algorithm is a mathematical process that calculates the quotient and/or remainder of two integers, given a dividend and divisor. For example, if the dividend (a) is 15 and the divisor (b) is 8, the quotient (q) is 1 and the remainder (r) is 7. This project aims to implement both slow and fast division algorithms to perform such calculations efficiently.
-
+The "Vehicle Movement Analysis and Insight Generation in a College Campus using Edge AI" project seeks to revolutionize how vehicle traffic is managed within a college campus . The system is designed to monitor, analyze, and provide actionable insights into vehicle movements, enhancing campus security, optimizing parking space utilization, and improving overall traffic flow.
 ## Tasks Accomplished
 <!-- Roadmap -->
 * [x] [Block Diagram](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Block-Diagram/)
