@@ -52,11 +52,13 @@ The "Vehicle Movement Analysis and Insight Generation in a College Campus using 
 .YOLOv8 (You Only Look Once):
 
 Purpose: Object detection framework used to accurately identify and track vehicles  from captured images.
+
 Features: High speed and accuracy, capable of detecting multiple objects in a single frame..
 
 Development Environment: Google Colab
 
 Purpose: Cloud-based platform for developing, training, and testing AI models.
+
  Features: Access to powerful GPUs, collaborative coding, and ease of use.
  ## **Synthesize and Implementation of the designs:**
    - **Functional simulation**: To ensure the correctness of our designs, we performed functional simulations using ModelSim Altera. The simulations involved running various test cases and verifying the expected outputs against the implemented algorithms. The functional simulations demonstrated that our designs accurately perform the division operations and produce the expected results.
