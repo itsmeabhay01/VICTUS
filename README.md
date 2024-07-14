@@ -61,9 +61,9 @@ Purpose: Cloud-based platform for developing, training, and testing AI models.
 
  Features: Access to powerful GPUs, collaborative coding, and ease of use.
  
- Programming Languages:
+ Programming Languages:Python
 
-Primary Language: Python
+
 
 Purpose: Develop and integrate detection and recognition algorithms.
 
