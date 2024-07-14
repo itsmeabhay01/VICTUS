@@ -107,7 +107,7 @@ Features: High accuracy in text recognition, support for various languages and f
 <a id="conclusion"></a>
 ## Conclusion
 
-The implemented slow and fast division algorithms have been evaluated for their efficiency, performance, and trade-offs. Through detailed analysis and comparison, we have assessed their characteristics in terms of area utilization, power consumption, and operational speed. Based on our findings, we make the following recommendations:
+The "Vehicle Movement Analysis and Insight Generation in a College Campus using Edge AI" project demonstrates a significant advancement  to enhance campus security, optimize parking management, and improve overall traffic flow. By integrating advanced object detection and OCR models, the project successfully achieves monitoring and analysis of vehicle movements.
 
 ### Slow Division Algorithm  
 - **Advantages:**
