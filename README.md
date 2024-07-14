@@ -75,9 +75,9 @@ pip install -r requirements.txt
 
 ```
 
-- Setting the Directory.
+- Access the dataset from the data file.
 ```
-cd ultralytics/yolo/v8/detect
+VEHICLE_MOVEMENT_ANALYSIS_AND_INSIGHT_GENERATION_IN_COLLEGE_CAMPUS.ipynb
 
 ```
 - Downloading the DeepSORT Files From The Google Drive 
