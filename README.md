@@ -97,18 +97,27 @@ VEHICLE_MOVEMENT_ANALYSIS_AND_INSIGHT_GENERATION_IN_COLLEGE_CAMPUS.ipynb
 
 ### License plate recognition csv file
 
-
-![vehicle license plate csv](https://github.com/user-attachments/assets/64c3bf6b-9eff-4c54-82fe-a64c3c87217c)
+![license plate csv](https://github.com/user-attachments/assets/e9691b15-b0fe-4138-9e80-98444be46694)
 
 ### Authorized vehicles csv file
 
-![authorized vehicle list csv](https://github.com/user-attachments/assets/a3c94b4a-5465-471e-b86f-80db2f354c29)
+![authorized vehicles csv](https://github.com/user-attachments/assets/1e67a187-012c-4f7f-a87b-f969d64b1c33)
 
 ### Vehicle entry csv file
 
-![vehicle entry csv](https://github.com/user-attachments/assets/1e0ba0cc-b025-4ba0-b87a-74810d88d749)
+![vehicle entry csv](https://github.com/user-attachments/assets/3ffc8e4c-1e1e-4033-9052-d53eb543ae97)
 
+### Parking lot occupancy
 
+![parking lot images](https://github.com/user-attachments/assets/c0b4150e-a8f0-4883-90b7-8531c984c375)
+
+### Parking slots csv file
+
+![parking slots csv](https://github.com/user-attachments/assets/38d3e686-a443-4b32-8392-a1a3a2139632)
+
+### Allotted vehicles to the slots csv file
+
+![alloted vehicles csv](https://github.com/user-attachments/assets/d5f5ad5c-6d33-4f22-beef-c6f0750fa1d9)
 
 
 ## Conclusion
