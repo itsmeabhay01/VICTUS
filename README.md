@@ -49,7 +49,7 @@ The "Vehicle Movement Analysis and Insight Generation in a College Campus using 
 
 ## Tools Used
 
-.YOLOv8 (You Only Look Once):
+YOLOv8 (You Only Look Once):
 
 Purpose: Object detection framework used to accurately identify and track vehicles  from captured images.
 
@@ -60,6 +60,15 @@ Development Environment: Google Colab
 Purpose: Cloud-based platform for developing, training, and testing AI models.
 
  Features: Access to powerful GPUs, collaborative coding, and ease of use.
+ 
+ Programming Languages:
+
+Primary Language: Python
+
+Purpose: Develop and integrate detection and recognition algorithms.
+
+Libraries Used: Tensorflow, pandas
+
  ## **Synthesize and Implementation of the designs:**
    - **Functional simulation**: To ensure the correctness of our designs, we performed functional simulations using ModelSim Altera. The simulations involved running various test cases and verifying the expected outputs against the implemented algorithms. The functional simulations demonstrated that our designs accurately perform the division operations and produce the expected results.
    <br>*You can find functional simulation files [Here](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Functional-Simulation/)*
